@@ -10,3 +10,11 @@ The simplified, robust, and more secure implementation using Microsoft Identity 
 
 
 Have identity questions? Join the Microsoft Sponsored [425Show discord](https://aka.ms/425show/discord/join) channel!
+
+
+
+# Presented at
+
+| Date | Group |
+| -- | -- |
+| 09-Aug-2022 | .NET South West |

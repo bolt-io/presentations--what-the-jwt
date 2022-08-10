@@ -1,6 +1,6 @@
 # What the JWT? - Securing your applicaiton with Microsoft Identity Web
 
-The community presentation is available [here](./What the JWT - Securing your app with Microsft Identity Web.pdf).
+The community presentation is available [here](./What%20the%20JWT%20-%20Securing%20your%20app%20with%20Microsft%20Identity%20Web.pdf).
 
 Both implementations in this repository use [Azure AD B2C](https://aka.ms/aadb2c) and call a downstream API.
 
